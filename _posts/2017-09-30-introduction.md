@@ -2,7 +2,7 @@
 layout: post
 date: '2017-09-30 02:37 +0100'
 author: Kyle McCann
-published: false
+published: true
 categories: '"Honours Project"'
 ---
 ## Honours Project

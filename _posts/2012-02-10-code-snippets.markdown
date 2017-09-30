@@ -2,7 +2,12 @@
 layout: post
 title: Code Snippets
 categories: Design
-excerpt: Quick overview on how to post code snippets using Liquid tags and how to escape or not escape markdown and HTML in your blog entries.
+excerpt: >-
+  Quick overview on how to post code snippets using Liquid tags and how to
+  escape or not escape markdown and HTML in your blog entries.
+published: false
+date: '2017-09-30 02:52 +0100'
+author: Hywel
 ---
 
 Whenever you need to post a code snippet, use the liquid tags `highlight` and `endhighlight` like this:

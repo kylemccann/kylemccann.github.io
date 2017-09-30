@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+title:  "Introduction"
+categories: ['Honours Project}
 ---
 ## Honours Project
 

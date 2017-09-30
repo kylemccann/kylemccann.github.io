@@ -1,8 +1,14 @@
 ---
 layout: post
-title: 'Hello World!'
+title: Hello World!
 categories: Meta
-excerpt: 'Hello World! Vestibulum imperdiet adipiscing arcu, quis aliquam dolor condimentum dapibus. Aliquam fermentum leo aliquet quam volutpat et molestie mauris mattis. Suspendisse semper consequat velit in suscipit.'
+excerpt: >-
+  Hello World! Vestibulum imperdiet adipiscing arcu, quis aliquam dolor
+  condimentum dapibus. Aliquam fermentum leo aliquet quam volutpat et molestie
+  mauris mattis. Suspendisse semper consequat velit in suscipit.
+published: false
+date: '2017-09-30 02:51 +0100'
+author: Hywel
 ---
 
 Hello World!

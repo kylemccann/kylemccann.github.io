@@ -9,9 +9,7 @@
     {% include head.html %}
     {% include opengraph.html %}
     {% include twittercard.html %}
-	  {% if jekyll.environment == 'production' %}
-    {% include analytics.html %}
-    {% endif %}
+	  
   </head>
 	<body id="top">
 
@@ -25,5 +23,8 @@
       {% include footer.html %}
       {% include scripts.html %}
 
+		{% if jekyll.environment == 'production' %}
+    {% include analytics.html %}
+    {% endif %}
 	</body>
 </html>

@@ -22,7 +22,7 @@ paginate: 5
 
 prose:
   rooturl: ''
-  siteurl: 'http://www.hywel.me'
+  siteurl: 'http://www.kyle.im'
   media: 'assets'
   metadata:
     _posts:
@@ -40,7 +40,7 @@ prose:
         field:
           label: "author"
           element: "text"
-          value: "Hywel"
+          value: "Kyle"
       - name: "categories"
         field:
           label: "categories"

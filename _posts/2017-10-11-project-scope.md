@@ -2,7 +2,7 @@
 layout: post
 date: '2017-10-11 23:36 +0100'
 author: Kyle McCann
-published: false
+published: true
 categories: Honors Project
 meta: Honours Project Strathclyde Glasgow Software Engineering
 ---

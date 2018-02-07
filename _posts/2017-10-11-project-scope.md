@@ -6,9 +6,6 @@ published: true
 categories: Honors Project
 meta: Honours Project Strathclyde Glasgow Software Engineering
 ---
-## Project Overview##
-
-
 In recent years there has been an emergence of the use of voice for searching. More commonly known examples of this are Apple’s Siri and Amazon’s Alexa.
 
 The project is suggested by Lucidworks, who contribute code to products such as Lucene and Solr which are open source search platforms. The primary aim of this project is to Implement a search interface that integrates Speech To Text APIs and demonstrates a voice driven search application with basic features of Siri/Google Now on top of Lucidworks search platform. The main motivation behind this is to enhance the user experience and allow users to retrieve search results quickly in natural language.

@@ -7,8 +7,6 @@ categories: ''
 excerpt: ''
 meta: ''
 ---
-## User Study
-
 In order to find the best performing Speech to Text API, I compared the available API's. This turned out to be Google Speech API and Microsoft Bing API. IBM Watson was also available but a prototype has already been trialed and was not found to return good enough results. 
 
 The study comprised of a set of 10 past questions from Stack Overflow, these questions were provided to participants and they dictated them through an online voice recording web app, there were a few issues with this app mainly due to some compatibility issues on iOS devices. None the less I still managed to get good range of participants with a variety of different nationalities / accents. 

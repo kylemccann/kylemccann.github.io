@@ -7,7 +7,6 @@ categories: 'Honours Project'
 excerpt: ''
 meta: 'Honours Project Strathclyde Glasgow Software Engineering'
 ---
-
 **Progress:**
 I have finally got a Working Fusion Speech to Text Pipeline Stage, this took alot longer than I had hoped. This is due to issues with the Google Client libraries which I was using for the API. None the less it is now working and it allows me to make a request to the Fusion backend and retrieve a transcribed result from Google Speech to Text API. These results can then be sent downstream to other Query stages.
 

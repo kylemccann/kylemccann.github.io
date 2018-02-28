@@ -8,7 +8,7 @@ image: /images/fulls/01.jpg
       <span><i class="fa fa-calendar"></i> {{ post.date | date: "%d %B %Y" }}{% if post.categories %} on <i class="fa fa-tags"></i> {{ post.categories | join: ', ' }}{% endif %}</span>
     </p>
     <div>
-      {{ post.content }}
+      {{ post.excerpt }}
     </div>
 
 {% if paginator.total_pages > 1 %}

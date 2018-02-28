@@ -4,7 +4,6 @@ date: '2018-2-28 17:05 +0100'
 author: Kyle
 published: true
 categories: 'Honours Project'
-excerpt: 'In order to demo the Speech to Text Pipeline, a frontend UI was required. I have now created a basic UI which can send requests to the Fusion backend and display the search results.'
 meta: 'Honours Project Strathclyde Glasgow Software Engineering'
 ---
 In order to demo the Speech to Text Pipeline, a frontend UI was required. I have now created a basic UI which can send requests to the Fusion backend and display the search results. The front end can also capture Audio, I now need to work on the code to convert this audio to the correct format to send to the backend to be processed by the Google API.

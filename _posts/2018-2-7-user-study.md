@@ -4,7 +4,6 @@ date: '2017-10-20 17:05 +0100'
 author: Kyle
 published: true
 categories: 'Honours Project'
-excerpt: ''
 meta: 'Honours Project Strathclyde Glasgow Software Engineering'
 ---
 In order to find the best performing Speech to Text API, I compared the available API's. This turned out to be Google Speech API and Microsoft Bing API. IBM Watson was also available but a prototype has already been trialed and was not found to return good enough results. 

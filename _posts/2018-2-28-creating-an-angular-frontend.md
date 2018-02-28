@@ -11,7 +11,8 @@ In order to demo the Speech to Text Pipeline, a frontend UI was required. I have
 *Problems*
 I was hoping to have a server by now for deployment and in order to work out any issues, however this has not happened. Therefore I have to do all development locally. I was having issues with Cross-Origin Resource Sharing, as the Angular UI and Fusion Backend run on different ports and Chrome is trying to protect against cross site scripting. Thankfuly firefox has an addon which allows you to get around this. 
 
-![The Angular UI](/images/angular-1.png  = 250x250)
+<img src="/images/angular-1.png" width="250">
+
 
 
 

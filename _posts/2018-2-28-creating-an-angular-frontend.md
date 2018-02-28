@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2018-02-28 17:05 +0100'
+date: '2018-2-28 17:05 +0100'
 author: Kyle
 published: true
 categories: 'Honours Project'
